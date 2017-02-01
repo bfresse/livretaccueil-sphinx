@@ -13,7 +13,7 @@ Le |labo|_ regroupe toutes les directions de recherche en mathématiques de
 émérites, 9 chercheurs CNRS et INRIA, 12 personnes en support à la recherche
 (ingénieurs, techniciens et administratifs) et une cinquantaine de doctorants
 et post-doctorants. Il est dirigé par Benoit Fresse, Directeur du laboratoire,
-avec Emmanuel Fricain et Mylène Maïda comme Directeurs adjoints.
+avec Emmanuel Fricain comme Directeur adjoint.
 
 Le laboratoire est organisé en cinq équipes : **Analyse**, **Analyse numérique
 et Equations aux Dérivées Partielles**, **Arithmétique et Géométrie
